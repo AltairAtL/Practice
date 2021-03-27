@@ -41,6 +41,11 @@ h1 {
   border-radius: 10px;
   background-color: #ffffff;
   border: 1px solid #c4c4c4;
+  font-size: 20px;
+  line-height: 29px;
+  color: #a9a9a9;
+  font-weight: 400;
+  font-family: "Lato";
 }
 .subscribe {
   width: 161px;
